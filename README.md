@@ -65,12 +65,10 @@ RegisterNumber: 212223040060
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/fa4ace51-d2b2-494b-b15b-32924c586f56)
-![image](https://github.com/user-attachments/assets/d2fa33a0-de77-4c68-a5f7-d3ffb1859d81)
-![image](https://github.com/user-attachments/assets/abedb607-4ca0-4382-90ca-243870f0320a)
-![image](https://github.com/user-attachments/assets/1fd672ed-1f03-4cce-ae96-d2eaed92a74f)
-![image](https://github.com/user-attachments/assets/55055038-a06e-4785-84a7-2cb09de91ef4)
-![image](https://github.com/user-attachments/assets/34479ab8-6a1d-4ce2-9fb3-c9f9bb0dbc20)
+![image](https://github.com/user-attachments/assets/368dfdd2-4e53-49cc-b1c1-c9cadd6d77fe)
+![image](https://github.com/user-attachments/assets/1e3497b5-0617-4419-a557-c44c8eb83d7a)
+![image](https://github.com/user-attachments/assets/ae0d01b9-2586-42a4-90f5-b7f6f6ec65e0)
+
 
 
 
